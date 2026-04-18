@@ -26,4 +26,5 @@ Slicers – Location and Month Filters → Enables interactive dashboard explora
 
 **FINAL OUTPUT**
 
-<img width="1512" height="847" alt="Customer Analysis" src="https://github.com/user-attachments/assets/6b8303a4-45f0-49be-97f2-466b7d4c73c4" />
+<img width="1357" height="752" alt="Customer Analytics" src="https://github.com/user-attachments/assets/1f6b1697-e92f-43e8-825d-bec347631fbd" />
+
